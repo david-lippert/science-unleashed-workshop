@@ -1,18 +1,15 @@
-# version-control-workshop
+# science-unleashed-workshop
 
-**Title:** Collaborate through Code (Version Control Basics)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-**Description:** Demystify the version control process and learn how to manage and collaborate on coding projects with other researchers and developers. Attendees will become familar with Git and GitHub.
+**Title:** Science Unleashed: Embracing Open Practices
+
+**Description:** Attendees will learn what open source is, why it is important for science, engineering, and society, and how to apply open practices at GW. During the workshop we will discuss new requirements to make all research outputs publicly available then we will highlight tools, processes, and initiatives available to help you share knowledge.
 
 **Learning Objectives:**
-1. Discuss the importance of version control in software and research development projects.
-2. Set up a GitHub repository for version control purposes.
-3. Use GitHub Desktop software to manage the code staging and committing process, and to interface with a remote repository on GitHub.
-4. Employ Git branching strategies to manage different versions of code.
-5. Collaborate with peers by pulling and merging changes from a shared repository.
-6. Troubleshoot common Git errors and conflicts during version control.
+1. Discuss the importance of open science principles in promoting collaboration, transparency, and reproducibility in research
+2. Document federal and global guidance and policies designed to advance open science
+3. Highlight tools and resources available at GW to enable our community to excel as we apply open science practices
 
-**Required Software:**
-+ GitHub Desktop (requires a GitHub account)
-+ VS Code Text Editor
+**No Required Software:**
 

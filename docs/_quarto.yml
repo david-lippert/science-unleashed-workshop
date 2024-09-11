@@ -8,9 +8,9 @@ project:
 # https://quarto.org/docs/books/
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Version Control Basics"
-  author: "Michael Rossetti"
-  date: "last-modified" # "7/24/2024"
+  title: "Science Unleashed: Embracing Open Practices"
+  author: "David Lippert"
+  date: "last-modified" # "9/6/2024"
   date-format: "iso"
   #doi: "...."
   #isbn: "..."
@@ -19,8 +19,8 @@ book:
 
 #website:
 
-  site-url: https://s2t2.github.io/version-control-workshop-2024
-  repo-url: https://github.com/s2t2/version-control-workshop-2024
+  site-url: https://david-lippert.github.io/science-unleashed-workshop
+  repo-url: https://github.com/david-lippert/science-unleashed-workshop
   repo-branch: main
   repo-subdir: docs
   repo-actions: [edit, issue, source]
@@ -65,33 +65,25 @@ book:
 
     - "-------------"
 
-    - part: "Setup Guide (Prereqs)"
-      href: prereqs/index.qmd
+    - part: "What is open science?""
+      href: lessons/what-is-open-science/index.qmd
       chapters:
-        - prereqs/github.qmd
-        - prereqs/vs-code-text-editor.qmd
-        - prereqs/git-client.qmd
-
+        - lessons/what-is-open-science/open-modules.ipynb
 
 
     - "-------------"
 
-    - part: "Notes"
+    - part: "Why open science?""
+      href: lessons/why-open-science/index.qmd
+
+
+    - "-------------"
+
+    - part: "How to practice open science?""
+      href: lessons/how-to-practice-open-science/index.qmd
       chapters:
-        - notes/version-control.qmd
-
-    - part: "Workshop Exercises"
-      chapters:
-        - href: exercises/hello-version-control/index.qmd
-          text: Hello Version Control
-        - href: exercises/pull-request-workflow/index.qmd
-          text: Pull Request Workflow
-        - href: exercises/developer-team-collaboration/index.qmd
-          text: Developer Team Collaboration
-        - href: exercises/open-source-collaboration/index.qmd
-          text: Open Source Collaboration
-
-
+        - lessons/how-to-practice-open-science/gw-resources.qmd
+        - lessons/how-to-practice-open-science/open-modules.ipynb
 
     - "-------------"
 
